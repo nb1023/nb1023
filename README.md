@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Bisht</h1>
-<h3 align="center">Student At Bennett University| Data Science Enthusiast | Aspiring Web Developer</h3>
+<h3 align="center">Student At Bennett University| Data Science | Machine Learningp</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
