@@ -7,8 +7,6 @@
 
 - 📫 E-mail me **nikitabisht512@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE1ja8UIU4/og0lq7gcn0EWosWo1B4e1w/view?website#2](https://www.canva.com/design/DAE1ja8UIU4/og0lq7gcn0EWosWo1B4e1w/view?website#2)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita-bisht-239299245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-bisht-239299245/" height="30" width="40" /></a>
