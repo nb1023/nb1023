@@ -1,9 +1,6 @@
-[!MasterHead](https://images.app.goo.gl/Mywu3n6vgbu2RLzg8)
 <h1 align="center">Hi 👋, I'm Nikita Bisht</h1>
 <h3 align="center">Data Analyst | Python | Machine Learning | PowerBI | Kotlin</h3>
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/v2/resize:fit:750/format:webp/0*dI-o8H3i0w66SpK7.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nb1023" alt="nb1023" /></a> </p>
 
 - 🔭 I’m currently working on **Machine learning projects**
 
