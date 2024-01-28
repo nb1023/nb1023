@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Bisht</h1>
 <h3 align="center">Data Analyst | Python | Machine Learning | PowerBI | Kotlin</h3>
-<img align="right" alt="coding" width="300" height="500" src = "https://miro.medium.com/v2/resize:fit:750/format:webp/0*dI-o8H3i0w66SpK7.gif">
+<img align="right" alt="coding" width="300" src = "https://miro.medium.com/v2/resize:fit:750/format:webp/0*dI-o8H3i0w66SpK7.gif">
 
 - 🔭 I’m currently working on **Machine learning projects**
 
